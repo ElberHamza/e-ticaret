@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.AssemblyInfo.cs
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\bin\Debug\net8.0\Models2.deps.json
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\bin\Debug\net8.0\Models2.runtimeconfig.json
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\bin\Debug\net8.0\Models2.dll
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\bin\Debug\net8.0\Models2.pdb
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.dll
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\refint\Models2.dll
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.pdb
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\Models2.genruntimeconfig.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\Models2\obj\Debug\net8.0\ref\Models2.dll

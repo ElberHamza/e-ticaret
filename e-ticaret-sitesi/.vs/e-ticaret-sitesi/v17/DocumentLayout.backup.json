@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|solutionrelative:e-ticaret-sitesi\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|solutionrelative:e-ticaret-sitesi\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|solutionrelative:e-ticaret-sitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20250101150444_addsessionidtoorderheader.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250101150444_addsessionidtoorderheader.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20250101120548_addorderheaaderanddetailstodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20250101120548_addorderheaaderanddetailstodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241231165145_addshoppingcarttodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241231165145_addshoppingcarttodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241231163603_addcompanytouser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241231163603_addcompanytouser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241231160030_addcompanyrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241231160030_addcompanyrecords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241231133416_extendidentityuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241231133416_extendidentityuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241230170245_addidentitytables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241230170245_addidentitytables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241230131848_addproductimagetodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241230131848_addproductimagetodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241229164050_addproductstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241229164050_addproductstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241229164050_addproductstodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241229164050_addproductstodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241229172904_addforeignkeyforcategoryproductrelation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241229172904_addforeignkeyforcategoryproductrelation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241229175003_addimageurltoproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241229175003_addimageurltoproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\bulky.dataaccess\\migrations\\20241230121644_addcompanytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32961411-5C28-4404-8FBD-13411F2C93A9}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241230121644_addcompanytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|solutionrelative:e-ticaret-sitesi\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|solutionrelative:e-ticaret-sitesi\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|c:\\users\\monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84AC5B3-E8C0-4B94-A91D-979FFA38E38D}|e-ticaret-sitesi\\e-ticaret-sitesi.csproj|solutionrelative:e-ticaret-sitesi\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "e-ticaret-sitesi\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "e-ticaret-sitesi\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T12:02:45.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAnwOABAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:00:01.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAuwH0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:55.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "e-ticaret-sitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "e-ticaret-sitesi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAACcFAAAAAAAAAAAswEEFAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T11:59:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250101150444_addSessionIdToOrderHeader.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20250101150444_addSessionIdToOrderHeader.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250101150444_addSessionIdToOrderHeader.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20250101150444_addSessionIdToOrderHeader.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250101150444_addSessionIdToOrderHeader.Designer.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAMwCYCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:48.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250101120548_addOrderHeaaderAndDetailsToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20250101120548_addOrderHeaaderAndDetailsToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20250101120548_addOrderHeaaderAndDetailsToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20250101120548_addOrderHeaaderAndDetailsToDb.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20250101120548_addOrderHeaaderAndDetailsToDb.Designer.cs",
+              "ViewState": "AgIAAAUCAAAAAAAAAAAMwCUCAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:46.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241231165145_addShoppingCartToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231165145_addShoppingCartToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241231165145_addShoppingCartToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231165145_addShoppingCartToDb.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241231165145_addShoppingCartToDb.Designer.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAMwLwBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241231163603_addCompanyToUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231163603_addCompanyToUser.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241231163603_addCompanyToUser.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231163603_addCompanyToUser.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241231163603_addCompanyToUser.Designer.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAMwLwBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241231160030_addCompanyRecords.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231160030_addCompanyRecords.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241231160030_addCompanyRecords.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231160030_addCompanyRecords.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241231160030_addCompanyRecords.Designer.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAMwL4BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:17.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241231133416_ExtendIdentityUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231133416_ExtendIdentityUser.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241231133416_ExtendIdentityUser.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241231133416_ExtendIdentityUser.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241231133416_ExtendIdentityUser.Designer.cs",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAMwKgBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:59:05.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241230170245_addIdentityTables.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241230170245_addIdentityTables.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241230170245_addIdentityTables.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241230170245_addIdentityTables.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241230170245_addIdentityTables.Designer.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAMwJ4BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241230131848_addProductImageToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241230131848_addProductImageToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241230131848_addProductImageToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241230131848_addProductImageToDb.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241230131848_addProductImageToDb.Designer.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAMwJ4BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:53.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241230121644_addCompanyTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241230121644_addCompanyTable.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241230121644_addCompanyTable.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241230121644_addCompanyTable.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241230121644_addCompanyTable.Designer.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAiwDkBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:37.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241229175003_addImageUrlToProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229175003_addImageUrlToProduct.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241229175003_addImageUrlToProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229175003_addImageUrlToProduct.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241229175003_addImageUrlToProduct.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwMAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:33.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241229172904_addForeignKeyForCategoryProductRelation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229172904_addForeignKeyForCategoryProductRelation.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241229172904_addForeignKeyForCategoryProductRelation.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229172904_addForeignKeyForCategoryProductRelation.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241229172904_addForeignKeyForCategoryProductRelation.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAiwLcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:29.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241229164050_addProductsToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAiwKwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241229164050_addProductsToDb.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241229164050_addProductsToDb.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:19.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "company.js",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\wwwroot\\js\\company.js",
+              "RelativeDocumentMoniker": "e-ticaret-sitesi\\wwwroot\\js\\company.js",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\wwwroot\\js\\company.js*",
+              "RelativeToolTip": "e-ticaret-sitesi\\wwwroot\\js\\company.js*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T11:47:25.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "e-ticaret-sitesi\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "e-ticaret-sitesi\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAA2wHsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:41:47.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "e-ticaret-sitesi\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "e-ticaret-sitesi\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAAAPoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T11:41:44.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "e-ticaret-sitesi\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\e-ticaret-sitesi\\e-ticaret-sitesi\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "e-ticaret-sitesi\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:32:53.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

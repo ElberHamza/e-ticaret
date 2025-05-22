@@ -1,0 +1,8 @@
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.AssemblyInfo.cs
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.RazorAssemblyInfo.cache
+C:\Users\Monster\source\repos\e-ticaret-sitesi\e_ticaret_web_razor_temp\obj\Debug\net8.0\e_ticaret_web_razor_temp.RazorAssemblyInfo.cs

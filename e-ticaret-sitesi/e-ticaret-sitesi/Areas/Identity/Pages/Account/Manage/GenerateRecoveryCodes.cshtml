@@ -1,0 +1,26 @@
+﻿@page
+@model GenerateRecoveryCodesModel
+@{
+    ViewData["Title"] = "İki faktörlü kimlik doğrulama (2FA) kurtarma kodları oluştur";
+    ViewData["ActivePage"] = ManageNavPages.TwoFactorAuthentication;
+}
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<h3>@ViewData["Title"]</h3>
+<div class="alert alert-warning" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>Bu kodları güvenli bir yerde saklayın.</strong>
+    </p>
+    <p>
+        Cihazınızı kaybederseniz ve kurtarma kodlarınız yoksa, hesabınıza erişimi kaybedersiniz.
+    </p>
+    <p>
+        Yeni kurtarma kodları oluşturmak, kimlik doğrulayıcı uygulamalarda kullanılan anahtarları değiştirmez. Eğer kimlik doğrulayıcı uygulamasında kullanılan anahtarı değiştirmek isterseniz, <a asp-page="./ResetAuthenticator">kimlik doğrulayıcı anahtarlarınızı sıfırlayın.</a>
+    </p>
+</div>
+<div>
+    <form method="post">
+        <button class="btn btn-danger" type="submit">Kurtarma Kodları Oluştur</button>
+    </form>
+</div>

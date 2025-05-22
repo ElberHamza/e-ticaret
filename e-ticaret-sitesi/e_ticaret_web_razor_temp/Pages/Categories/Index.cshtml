@@ -1,0 +1,47 @@
+﻿@page
+@model e_ticaret_web_razor_temp.Pages.Categories.IndexModel
+
+<div class="container">
+    <div class="row pt-4 pb3">
+        <div class="col-6">
+            <h2 class="text-primary">
+                KATEGORİ LİSTESİ
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-page="categories/create" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i>Yeni Kategori Oluştur
+            </a>
+        </div>
+    </div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Kategori Adı</th>
+                <th>Display Order</th>
+                <th>
+
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model.CategoryList.OrderBy(u => u.DisplayOrder))
+            {
+                <tr>
+                    <td>@obj.Name</td>
+                    <td>@obj.DisplayOrder</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-page="/categories/edit" asp-route-id="@obj.Id" class="btn btn-primary mx2">
+                                <i class="bi bi-pencil-square"></i>Düzenle
+                            </a>
+                            <a asp-page="/categories/delete" asp-route-id="@obj.Id" class="btn btn-danger mx2">
+                                <i class="bi bi-trash-fill"></i>Sil
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
